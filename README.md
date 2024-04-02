@@ -24,14 +24,11 @@ Dokümanda tek bir veri seti bulunmakta olup 891 satır 12 sütundan oluşmaktad
 
 Elde edilen sonuçların bazıları aşağıda verilmiştir. Daha fazla detaya .ipynb uzantılı kod dosyasından erişebilirsiniz. 
 
-![sinifdagilim](https://github.com/kayamel/Veri-Seti-Analizi/assets/148653111/d360c613-1c8c-4da7-8d62-cf85b3d9e34a)
-![image](https://github.com/kayamel/Pyt_Veri-Seti-Analizi/assets/148653111/2492fe0f-7bc3-4fce-b62d-9d46a8da414d)
-![image](https://github.com/kayamel/Pyt_Veri-Seti-Analizi/assets/148653111/44683a61-ab9d-4311-bcb0-2c0e144e264b)
-![image](https://github.com/kayamel/Pyt_Veri-Seti-Analizi/assets/148653111/2bd34fce-abe5-46ba-bd63-afab8ed155d6)
-![image](https://github.com/kayamel/Pyt_Veri-Seti-Analizi/assets/148653111/de5c98d5-815a-4613-a369-6a028bff5c6b)
-![image](https://github.com/kayamel/Pyt_Veri-Seti-Analizi/assets/148653111/fbec2741-5fd8-4d79-be69-87e293c35ed4)
-![image](https://github.com/kayamel/Pyt_Veri-Seti-Analizi/assets/148653111/00f8fe35-d904-4b02-a79a-ac134bed48d7)
-
-
+![yas2](https://github.com/kayamel/Veri-Seti-Analizi/assets/148653111/efa2e4ed-a89f-41cc-904d-944c51aa554e)
+![biletfiyat](https://github.com/kayamel/Veri-Seti-Analizi/assets/148653111/a9074cb4-8d2c-4706-9b67-a07114e17e12)
+![cinsiyetdagilim](https://github.com/kayamel/Veri-Seti-Analizi/assets/148653111/4829ac66-aff0-460b-b0cb-f164fadc78b1)
+![korelasyon](https://github.com/kayamel/Veri-Seti-Analizi/assets/148653111/05ca2e5f-485a-4f92-b9c2-7ddb661b9159)
+![sinifdagilim](https://github.com/kayamel/Veri-Seti-Analizi/assets/148653111/21491c7a-be20-4be3-b72b-32ff0c3e856f)
+![yas](https://github.com/kayamel/Veri-Seti-Analizi/assets/148653111/9ff267e9-5690-4953-ae64-dfa9e2c5dbf9)
 
 
