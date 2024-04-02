@@ -24,6 +24,7 @@ Dokümanda tek bir veri seti bulunmakta olup 891 satır 12 sütundan oluşmaktad
 
 Elde edilen sonuçların bazıları aşağıda verilmiştir. Daha fazla detaya .ipynb uzantılı kod dosyasından erişebilirsiniz. 
 
+![sinifdagilim](https://github.com/kayamel/Veri-Seti-Analizi/assets/148653111/d360c613-1c8c-4da7-8d62-cf85b3d9e34a)
 ![image](https://github.com/kayamel/Pyt_Veri-Seti-Analizi/assets/148653111/2492fe0f-7bc3-4fce-b62d-9d46a8da414d)
 ![image](https://github.com/kayamel/Pyt_Veri-Seti-Analizi/assets/148653111/44683a61-ab9d-4311-bcb0-2c0e144e264b)
 ![image](https://github.com/kayamel/Pyt_Veri-Seti-Analizi/assets/148653111/2bd34fce-abe5-46ba-bd63-afab8ed155d6)
