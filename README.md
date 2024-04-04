@@ -1,4 +1,4 @@
-
+                                          <h1>Python ile Veri Seti Analizi</h1>
 
 <h3>Bu dokümanda train.csv dosyası analiz edilmiştir.  </h3>
 
